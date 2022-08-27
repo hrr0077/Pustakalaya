@@ -92,11 +92,6 @@ if ($showError) {
 
 ?>
 
-
-
-
-
-
     <header class="d-flex masthead" style="background-image:url('assets/img/bg-masthead.jpg');">
         <div class="container my-auto text-center">
             <h1 class="mb-1">Pustakalaya</h1>

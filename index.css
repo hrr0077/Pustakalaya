@@ -1,0 +1,19 @@
+footer.footer{
+    background-color: black;
+}
+
+.btn{
+    color: rgba(255,255,255,.55);
+    font-family: "Source Sans Pro";
+}
+button.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+button.btn:hover{
+    color: white;
+}
+
+#contact{
+    background-color: rgb(118, 28, 28);
+}
